@@ -11,10 +11,8 @@ A Python command-line application to simulate a blind auction. Bidders enter the
 
 1. Ensure you have Python installed.
 2. Run the script from your terminal:
-```bash
-python auction.py
 
-```
+python auction.py
 
 
 3. Follow the on-screen prompts to enter names and bid amounts.
